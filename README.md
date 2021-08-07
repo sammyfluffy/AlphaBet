@@ -1,5 +1,5 @@
 # AlphaBet
-AlphaBet Main bot Java JDA + MySQL
+AlphaBet bot Java JDA + MySQL
 Coding server Java + Python + Database </br>
 https://discord.gg/wxeQ5sMrHZ </br>
 https://alphabetcommunity.tech/ </br>
