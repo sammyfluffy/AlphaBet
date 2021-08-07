@@ -6,8 +6,7 @@ public class SetCon {
     /*------------- local -------------------*/
     public static final String HOST = "localhost";
     public static final String PORT = "3306";
-    public static final String DATABASE = "alphabet_Main";
+    public static final String DATABASE = "";
     public static final String USER = "root";
     public static final String PASSWORD = "";
-    addin gne wline
 }
