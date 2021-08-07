@@ -1,12 +1,11 @@
 Note.txt
 Binary.txt
 OldCode.java
+SetCon.java
+
 
 src/main/java/AlphaBet/bot/general/SetCon.java
 /SetCon.java
-
-src/main/java/AlphaBet/bot/general/GBVarible.java
-/GBVarible.java
 
 # Compiled class file
 *.class
