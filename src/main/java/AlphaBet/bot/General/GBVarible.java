@@ -74,12 +74,12 @@ public class GBVarible extends ListenerAdapter {
 
         System.out.println(String.format(
                 "#-------------------------------------------\n" +
-                        "| %s is ready - Number of guilds: %s \n" +
-                        "%s" +
-                        "#-------------------------------------------\n",
+                "| %s is ready - Number of guilds: %s \n" +
+                "%s" +
+                "#-------------------------------------------\n",
                 e.getJDA().getSelfUser().getAsTag(),e.getJDA().getGuilds().size(), sb));
-        String t = Bot.getMySql().getData("tblScore","memberID","616969228972458008","point");
-//        System.out.print("return from Db: " + t);
+        String t = Bot.getMySql().getData("tblGuid","guidID","12345","prefix");
+        System.out.print("return from Db: " + t);
     }
     /* -----------------------------------------------------------------------------
             Reading Binary number from file
