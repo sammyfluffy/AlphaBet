@@ -7,6 +7,12 @@ SetCon.java
 src/main/java/AlphaBet/bot/general/SetCon.java
 /SetCon.java
 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
 # Compiled class file
 *.class
 
